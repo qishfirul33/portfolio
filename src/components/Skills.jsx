@@ -16,7 +16,7 @@ const Skills = () => {
       num: '01',
       skills: [
         { name: 'React', level: 90 },
-        { name: 'TypeScript', level: 85 },
+        { name: 'Next.js', level: 85 },
         { name: 'Tailwind CSS', level: 95 },
         { name: 'Flutter', level: 95 },
       ],
@@ -31,8 +31,8 @@ const Skills = () => {
       num: '02',
       skills: [
         { name: 'Python', level: 88 },
-        { name: 'Next.js', level: 85 },
-        { name: 'Laravel', level: 90 },
+        { name: 'Laravel', level: 85 },
+        { name: 'PostgreSQL', level: 90 },
         { name: 'MySQL', level: 90 },
       ],
       icon: (
